@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-node-modules
-.DS_Store
-=======
+
 # Logs
 logs
 *.log
@@ -39,4 +36,4 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
->>>>>>> 4ccc6731be8c5aa9ff86bd87caa8ae571c357293
+
